@@ -67,7 +67,7 @@ Me chamo Gerry, tenho 21 anos e moro em São Paulo-Guarulhos. Atualmente estou c
     alt="GitHub"
     height="180"  
     style="padding-right: 10px"
-    src="https://github-readme-stats.vercel.app/api?username=Gerry-Junior&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br"
+    src="https://github-readme-stats.vercel.app/api?username=Gerry-Junior&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&locale=pt-br"
 />
 <img 
     width="35%" 
@@ -75,6 +75,12 @@ Me chamo Gerry, tenho 21 anos e moro em São Paulo-Guarulhos. Atualmente estou c
     style="padding-right: 10px"
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gerry-Junior&layout=compact&hide_border=true&title_true&theme=tokyonight&locale=pt-br" 
     />
-
-
 </div>
+</br>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Gerry-Junior&radius=16&theme=tokyo-night&area=true&order=5" height="300" alt="activity-graph graph"  />
+</div>
+
+
+
